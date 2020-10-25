@@ -1,1 +1,1 @@
-# module2-solutions
+# assignment2-solution
